@@ -1,0 +1,135 @@
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Montserrat:wght@500;600;700&display=swap');
+  </style>
+   <link rel="stylesheet" type="text/css" href="uts css.css">
+  <div class="wrapper">
+    <div class="intro">
+      <div class="profile">
+        <div class="photo">
+          <img src="https://media-exp1.licdn.com/dms/image/C4D03AQFNxkh2zt5ykA/profile-displayphoto-shrink_400_400/0/1654370608774?e=1671667200&v=beta&t=c0YC92nxrjyu5FCR7T8gMWsuaC00HGpROagBc5XC08Q">
+        </div>
+        <div class="bio">
+          <h1 class="name">Aditya Nugraha Tarihoran</h1>
+          <br>
+          <p class="profession">Product Enthusiast</p>
+        </div>
+      </div>
+      <div class="intro-section about">
+        <h1 class="title">about me</h1>
+        <p class="paragraph">
+          Hello! My name is Aditya Nugraha Tarihoran from University of Brawijaya, Information System Major. I have a big interest in Product Management and still learning more about Product Management things in BCC Fakultas Ilmu Komputer - University of Brawijaya.
+        </p>
+        <br>
+      </div>
+      <div class="intro-section contact">
+        <h1 class="title">Contact</h1>
+        <div class="info-section">
+          <span>Hp: (+62)882-6133-2985</span>
+        </div>
+        <div class="info-section">
+          <span>Domisili: Malang, Indonesia</span>
+        </div>
+        <br>
+      </div>
+      <div class="intro-section follow">
+        <h1 class="title">Follow</h1>
+        <div class="info-section link">
+            <p>==Click Below To Direct To My Account==</p>
+          <a target="_blank" rel="author" href="https://www.linkedin.com/in/aditya-nugraha-tarihoran/?originalSubdomain=id" Linkedin>
+            <span>LinkedIn: Aditya Nugraha Tarihoran</span>
+          </a>
+        </div>
+        <div class="info-section link">
+          <a target="_blank" rel="author" href="https://www.instagram.com/adit.nugraha25/">
+            <span>Instagram: adit.nugraha25</span> 
+          </a>
+        </div>
+        <div class="info-section link">
+          <a target="_blank" rel="author" href="https://www.figma.com/@adityanugrahata">
+            <span>Figma: adityanugrahata</span>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="detail">
+      <div class="detail-section edu">
+        <div class="detail-title">
+          <div class="title-icon">
+          </div>
+          <span>Education</span>
+          <br><br>
+        </div>
+        <div class="detail-content">
+          <div class="timeline-block">
+            <h1>Science Major</h1>
+            <p>SMAN 5 MEDAN, Indonesia</p>
+            <time>2018 - 2021</time>
+          </div>
+          <div class="timeline-block">
+            <h1>Faculty of Computer Science</h1>
+            <p>Brawijaya University, Indonesia</p>
+            <time>2021 - present</time>
+          </div>
+        </div>
+      </div>
+      <br><br><br>
+      <div class="detail-section pg-skill">
+        <div class="detail-title">
+          <div class="title-icon">
+          </div>
+          <span>Specializing In</span>
+        </div>
+        <div class="detail-content">
+            <table border="0" cellspacing="0">
+      <tr>
+          <td>
+            <img src= "https://i.postimg.cc/D0GC4S4J/Product-Design.png" width="85%"></td>
+          <td><img src= "https://i.postimg.cc/85x7n5Kb/Problem-Solving.png" width="85%"></td>
+          <td><img src= "https://i.postimg.cc/L5BmB6r5/Manage-Teamworks.png" width="85%"></td>
+      </tr>
+      <tr>
+          <td><img src= "https://i.postimg.cc/Xqm7YzSc/Develop-Products.png" width="85%"></td>
+          <td><img src= "https://i.postimg.cc/SRrf0CBh/web-design.png" width="85%"></td>
+          <td><img src="https://i.postimg.cc/sxDwgT9X/App-Design.png" width="85%"></td>
+      </tr>
+  </table>
+  <br><br>
+        </div>
+      </div>
+      <div class="detail-section tool-skill">
+        <div class="detail-title">
+          <div class="title-icon">
+          </div>
+          <span>Tools</span>
+        </div>
+        <div class="detail-content">
+          <ul class="tool-list">
+            <table border="0" cellspacing="0">
+      <tr>
+          <td><img src="https://privacyhosting.net/wp-content/uploads/2018/03/gsuite.png" width=85%></td>
+          <td><img src= "https://logosmarcas.net/wp-content/uploads/2021/02/Trello-Logo-2011-2016.jpg" width="85%"></td>
+          <td><img src= "https://spin.atomicobject.com/wp-content/uploads/figma-logo.png" width="85%"></td>
+                <td><img src="https://www.growthmarketingpro.com/wp-content/uploads/2020/01/Canva-Logo.png" width=85%></td>
+      </tr>
+  </table>
+  <br><br>
+      </div>
+      <div class="detail-section interests">
+        <div class="detail-title">
+          <div class="title-icon">
+          </div>
+          <span>Portfolio</span>
+        </div>
+        <div class="detail-content">
+  <table border="0" cellspacing="0">
+      <tr>
+          <td><img src="https://i.postimg.cc/2yR9p3Yx/Desktop-1.png" width=85%></td>
+          <td><img src= "https://i.postimg.cc/0yMSSnDb/Desktop-2.png" width="85%"></td>
+          <td><img src= "https://i.postimg.cc/yNT06d0P/Desktop-3.png" width="85%"></td>
+      </tr>
+  </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
